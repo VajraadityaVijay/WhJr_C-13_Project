@@ -49,7 +49,6 @@ function draw() {
   if (keyDown("space")) {
     createArrow();
   }
-  arrow.collide
    
   //creating continous enemies
 
